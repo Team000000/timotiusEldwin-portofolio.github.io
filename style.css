@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 html, body{
-  /*background-color: #EBF4FA;*/
+  /*background-color: #09283d;*/
   height: 100%;
   width: 100%;
   font-family: 'Montserrat', sans-serif;;
@@ -31,6 +31,9 @@ html, body{
   border-top: 2px solid #b4b4b4;
   width: 95%;
   margin-bottom: 1rem;
+}
+.description {
+  margin-top: 1rem;
 }
 .social a{
   font-size: 3em;
